@@ -38,7 +38,11 @@ footer .links > a {
 }
 .news {
     background-color: rgb(204, 199, 199);
-    padding: 50px 32px;
+    background: url(images/background-1696064_1280.jpg) center no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 100px;
 }
 article {
     width: 800px;
